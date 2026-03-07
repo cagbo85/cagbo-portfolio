@@ -28,3 +28,14 @@ Homestead.json
 .env.production
 .phpactor.json
 auth.json
+
+*.log
+.DS_Store
+/.fleet
+/.idea
+/.nova
+/.phpunit.cache
+/.vscode
+/.zed
+/auth.json
+Thumbs.db
