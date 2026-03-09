@@ -179,7 +179,7 @@
                     utilisateur, en mettant l'accent sur l'utile et l'agréable.
                 </p>
                 <div class="mt-8 text-center">
-                    <a href="{{ asset('docs/AGBO_Charles_Curriculum_Vitae') }}" target="_blank"
+                    <a href="{{ asset('docs/AGBO_Charles_Curriculum_Vitae.pdf') }}" target="_blank"
                         class="inline-flex items-center gap-2 px-6 py-3 rounded-full bg-[#17A096] text-white font-medium hover:bg-[#12857D] transition">
                         <i class="fa-solid fa-file-arrow-down"></i>
                         Télécharger mon CV
