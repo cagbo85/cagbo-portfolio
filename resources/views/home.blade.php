@@ -1,6 +1,11 @@
 @extends('layouts.app')
 
-@section('title', 'AGBO Charles - Portfolio')
+@section('title', 'AGBO Charles - Portfolio UX/UI Designer Junior')
+@section('meta_description', "Portfolio de Charles AGBO, UX/UI Designer junior en recherche d'alternance.")
+@section('canonical', url('/'))
+@section('og_title', 'AGBO Charles - Portfolio UX/UI Designer Junior')
+@section('og_description', "UX/UI Designer junior en recherche d'alternance. Decouvrez mes projets et realisations.")
+@section('og_url', url('/'))
 
 @section('content')
 
